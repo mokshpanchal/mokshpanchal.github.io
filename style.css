@@ -127,7 +127,7 @@ h1{
 
 #intro-wrapper
 {
-    padding: 10%;
+    padding: 5% 10%;
 }
 
 #name
@@ -157,7 +157,7 @@ from, to { border-color: transparent }
 50% { border-color: var(--color1) }
 }
 
-#brief
+.brief
 {
     color: rgb(5, 79, 106, 0.85);
     font-size: 1.25em;
